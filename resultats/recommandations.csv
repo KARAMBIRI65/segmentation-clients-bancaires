@@ -1,0 +1,6 @@
+nom,nb_clients,part_clients,age,souscription,lift,recommandation
+Jeunes étudiants,875,0.021,25.895,0.314,2.79,"Taux de souscription le plus élevé. Proposer un livret épargne jeune avec versements programmés, via l'app mobile et les partenariats écoles. Enjeu long terme : fidéliser avant le premier emploi."
+Seniors retraités,1720,0.042,62.027,0.252,2.24,"Forte appétence pour l'épargne sécurisée. Conseiller dédié, dépôt à terme, assurance-vie et transmission. Contact téléphonique ou agence."
+Actifs qualifiés,19407,0.471,38.314,0.129,1.141,"Plus gros segment, taux proche de la moyenne. Offres digitales (épargne en ligne, PEA, packs premium) et ciblage fin par scoring plutôt qu'appels de masse."
+Actifs employés / ouvriers,11100,0.269,38.63,0.094,0.834,"Souscription sous la moyenne. Produits simples à petits montants (épargne automatique, arrondi des achats) et éducation financière ; limiter les relances téléphoniques coûteuses."
+Clients peu documentés,8086,0.196,42.89,0.049,0.431,"Taux le plus faible. Priorité : compléter la connaissance client (KYC, historique de crédit) avant toute campagne commerciale. Exclure des campagnes d'appels pour réduire les coûts."

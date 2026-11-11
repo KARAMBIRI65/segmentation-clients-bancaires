@@ -1,0 +1,6 @@
+segment,age,niveau_etudes,emploi_qualifie,retraite,etudiant,marie,credit_immo,credit_conso,defaut_inconnu,deja_contacte,souscription,nb_clients,part_clients,nom,lift
+0,25.895,4.206,0.0,0.0,1.0,0.047,0.538,0.162,0.119,0.321,0.314,875,0.021,Jeunes étudiants,2.79
+4,62.027,3.252,0.0,1.0,0.0,0.741,0.519,0.14,0.228,0.226,0.252,1720,0.042,Seniors retraités,2.24
+2,38.314,5.093,1.0,0.0,0.0,0.54,0.535,0.155,0.001,0.151,0.129,19407,0.471,Actifs qualifiés,1.141
+1,38.63,3.157,0.024,0.0,0.0,0.646,0.517,0.151,0.0,0.137,0.094,11100,0.269,Actifs employés / ouvriers,0.834
+3,42.89,3.457,0.408,0.0,0.0,0.737,0.507,0.148,1.0,0.063,0.049,8086,0.196,Clients peu documentés,0.431
